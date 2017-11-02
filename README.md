@@ -1,2 +1,2 @@
 # Web4Pat
-Wed page for Patricia Francis Lyon
+Webpage for Patricia Francis Lyon
